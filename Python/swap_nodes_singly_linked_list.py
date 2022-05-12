@@ -58,7 +58,7 @@ class Solution:
         swap_two = ListNode()
         
         #while not at the final node
-        while i < count:
+        while i <= count:
             
             #if we have arrived at the first stop indicated by k
             if i == k:
